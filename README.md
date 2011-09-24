@@ -1,8 +1,12 @@
-# TTYtter kdialog Notification Extension 1.0.1
+# TTYtter kdialog Notification Extension 1.0.2
 
 by [noquierouser](http://noquierouser.uni.cx) \([@noquierouser](http://twitter.com/noquierouser)\)
 
 ## Changelog
+
+### Version 1.0.2 (Sept. 24, 2011)
+
+* Fixed kdialog popups showing in the middle of the screen in fluxbox. This is supposed to be fixed in next versions to fit more Window Managers with the same bug.
 
 ### Version 1.0.1 (Sept. 15, 2011)
 
